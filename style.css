@@ -1,0 +1,33 @@
+header {
+    width: 75%;
+    text-align: center;
+    background-image: linear-gradient(lightblue, rgb(212, 212, 49));
+    margin: auto;
+}
+
+header h1 {
+    margin: 0;
+}
+
+a {
+    text-decoration:none;
+}
+
+a:visited {
+    text-decoration: none;
+    color: azure;
+}
+
+a:hover {
+    color: yellow;
+}
+
+.menu-li {
+    display: inline-block;
+    margin: 2px;
+    padding: 2px;
+    font-weight: bold;
+    color:azure;
+    background-color: #131921;
+    font-size: 25px;
+}
